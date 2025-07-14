@@ -7,8 +7,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-# [Usage](#usage)
-# [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 # [Contributing](#contributing)
 # [License](#license)
 
@@ -33,3 +33,14 @@ AutoWallet Clicker is a simple yet powerful tool designed to automate wallet int
 5. python app.py
    ```bash
    git clone https://github.com/Mayjor01/autowallet-clicker.git
+   
+## Screenshot
+<img width="360" height="63" alt="image" src="https://github.com/user-attachments/assets/7fef40f9-f946-4e5b-9338-a68231909156" />
+<img width="363" height="63" alt="image" src="https://github.com/user-attachments/assets/6bef25b8-4d2d-4f70-b590-1dc245efa535" />
+<img width="384" height="76" alt="image" src="https://github.com/user-attachments/assets/ab4737a2-7275-4ebd-a194-2653f4d7dbb3" />
+
+# [Contributing](#contributing)
+
+
+
+
