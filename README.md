@@ -1,6 +1,7 @@
 # AutoWallet Clicker
 
-![Logo](path_to_your_image/logo.png)
+<img width="1024" height="768" alt="a_modern_and_profe_image_" src="https://github.com/user-attachments/assets/658cf469-265d-42bb-b653-ed2c171506f4" />
+
 
 ## Table of Contents
 - [Introduction](#introduction)
